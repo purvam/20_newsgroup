@@ -5,6 +5,8 @@ You have to provide it at the time of training.
 
 It uses stopwords list also, which is in other txt file provided here. You have to provide it at the time of training and testing.
 
+Also, you will need weka- 3.8 or above version to run it.
+
 This project reads the text file and trains the classifier.
 The trained classifier is used to predict the test input files.
 
